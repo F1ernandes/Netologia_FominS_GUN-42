@@ -23,37 +23,38 @@ namespace Lessons
                 Console.WriteLine("Not a number!");
                 return;
             }
-            Console.WriteLine("Enter operator");
+            Console.WriteLine("Enter operator &, |, ^");
             var s = Console.ReadLine();
             if (s.Length == 0 || s.Length > 1)
             {
                 Console.WriteLine("Wrong Operator!");
                 return;
             }
-            //var a = Int32.TryParse(Console.ReadLine());
-            //var b = Int32.Parse(Console.ReadLine());
-
+            else if ((s[0] != '&') && (s[0] != '|') && (s[0] != '^'))
+            {
+                Console.WriteLine("Program works only with & | ^!");
+                return;
+            }
+            
+            int result = 0;
             switch (s[0])
             {
-                case '+':
-                    Console.WriteLine("Result of {0} + {1} = {2}", a, b, a + b);
-                    break;
-                case '-':
-                    Console.WriteLine("Result of {0} - {1} = {2}", a, b, a - b);
-                    break;
-                case '*':
-                    Console.WriteLine("Result of {0} * {1} = {2}", a, b, a * b);
-                    break;
-                case '/':
-                    Console.WriteLine("Result of {0} / {1} = {2}", a, b, a / b);
-                    break;
-                case '%':
-                    Console.WriteLine("Result of {0} % {1} = {2}", a, b, a % b);
-                    break;
-                default:
-                    Console.WriteLine("Wrong Operand");
-                    break;
+                //Побитовое И (AND)
+                case '&': result = a & b; break;
+                case '|': result = a | b; break;
+                case '^': result = a ^ b; break;
+                //case '+': Console.WriteLine("Result of {0} + {1} = {2}", a, b, a + b); break;
+                //case '-': Console.WriteLine("Result of {0} - {1} = {2}", a, b, a - b); break;
+                //case '*': Console.WriteLine("Result of {0} * {1} = {2}", a, b, a * b); break;
+                //case '/': Console.WriteLine("Result of {0} / {1} = {2}", a, b, a / b); break;
+                //case '%': Console.WriteLine("Result of {0} % {1} = {2}", a, b, a % b); break;
+                default:  Console.WriteLine("Wrong Operand"); break;
             }
+            
+            Console.WriteLine("Result o operation {0} {2} {1}", a, b, s[0]);
+            Console.WriteLine($"Десятичное: {result}");
+            Console.WriteLine($"Двоичное:   {Convert.ToString(result, 2)}");
+            Console.WriteLine($"Шестнадцатеричное: {Convert.ToString(result, 16)}");
             Console.ReadLine();
 
         }
