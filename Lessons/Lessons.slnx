@@ -15,8 +15,7 @@
   <Project Path="../Lesson39ArrayStandartSolutions/Lesson39ArrayStandartSolutions.csproj" Id="17db895d-c93e-4393-b70f-5d42a4eaf107" />
   <Project Path="../Lesson40IndexAndDiapasons/Lesson40IndexAndDiapasons.csproj" Id="ba4620a6-7576-4b40-8724-ec720e47461b" />
   <Project Path="../MyProject/MyProject.csproj" Id="8d7f0e58-9841-40ed-b720-b05af836c6b3" />
-  <Project Path="../Netolofy02Lesson/Netolofy02Lesson.csproj" Id="6553b6f4-c88d-4d03-89b6-713b2c8b1fa2" />
+  <Project Path="../Netolofy02Lesson/Netology02Lesson.csproj" Id="6553b6f4-c88d-4d03-89b6-713b2c8b1fa2" />
   <Project Path="../Netology01Lesson/Netology01Lesson.csproj" Id="4fc3cb95-cf25-4a22-bc18-64e21c6e268a" />
-  <Project Path="../NetologyGIT/NetologyGIT.csproj" Id="56694529-3793-4921-8e8b-7c3e1697212d" />
   <Project Path="Lessons.csproj" />
 </Solution>
