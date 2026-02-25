@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="../Homework/Homework01Average.csproj" Id="ee09b72c-4693-438a-a70d-c7a22058c94b" />
+  <Project Path="../Homework02Sum/Homework02Sum.csproj" Id="3fee4040-5f6a-4b18-8703-2e53573c80dc" />
+  <Project Path="../Homework03Currency/Homework03Currency.csproj" Id="85eeb115-95ed-4770-ad9e-29205a4aaeff" />
+  <Project Path="../Homework04Calc/Homework04Calc.csproj" Id="df2716e8-3fd8-473e-a437-b7af68d97d34" />
+  <Project Path="../Lesson13IfElse/Lesson13IfElse.csproj" Id="d345f9ca-f89e-41ef-b65c-eb783738c505" />
+  <Project Path="../Lesson15InkrementDekrement/Lesson15InkrementDekrement.csproj" Id="08aa7abf-b78d-4f0d-93d9-f86d229fbeaf" />
+  <Project Path="../Lesson16Compare/Lesson16Compare.csproj" Id="63d4d3c8-14e4-4e0f-b489-0fcbf3bcdfe6" />
+  <Project Path="../Lesson18ReducedLogicalOperation/Lesson18ReducedLogicalOperation.csproj" Id="5fc3c682-64e7-4fb9-be92-ad0c052c213d" />
+  <Project Path="../Lesson20Switch/Lesson20Switch.csproj" Id="a7cab220-aa04-4d2c-94fc-9e547e5ba57b" />
+  <Project Path="../Lesson22While/Lesson22While.csproj" Id="d5ad065c-5152-44e7-b499-8d3a3bf4f87c" />
+  <Project Path="../Lesson25For/Lesson25For.csproj" Id="1ae46968-1c31-4439-afda-08479e52414b" />
+  <Project Path="../Lesson29NestedLoop/Lesson29NestedLoop.csproj" Id="13f5ef27-271d-4f81-b8d4-b087d2fb943f" />
+  <Project Path="../Lesson32Array/Lesson32Array.csproj" Id="0f1d5c2a-6462-4126-8032-b2d38f520ea3" />
+  <Project Path="../Lesson39ArrayStandartSolutions/Lesson39ArrayStandartSolutions.csproj" Id="17db895d-c93e-4393-b70f-5d42a4eaf107" />
+  <Project Path="../Lesson40IndexAndDiapasons/Lesson40IndexAndDiapasons.csproj" Id="ba4620a6-7576-4b40-8724-ec720e47461b" />
+  <Project Path="../MyProject/MyProject.csproj" Id="8d7f0e58-9841-40ed-b720-b05af836c6b3" />
+  <Project Path="../Netolofy02Lesson/Netolofy02Lesson.csproj" Id="6553b6f4-c88d-4d03-89b6-713b2c8b1fa2" />
+  <Project Path="../Netology01Lesson/Netology01Lesson.csproj" Id="4fc3cb95-cf25-4a22-bc18-64e21c6e268a" />
+  <Project Path="../NetologyGIT/NetologyGIT.csproj" Id="56694529-3793-4921-8e8b-7c3e1697212d" />
+  <Project Path="Lessons.csproj" />
+</Solution>
