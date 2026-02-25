@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="../hometask20260221/Netology01HomeWork.csproj" />
   <Project Path="../Homework/Homework01Average.csproj" Id="ee09b72c-4693-438a-a70d-c7a22058c94b" />
   <Project Path="../Homework02Sum/Homework02Sum.csproj" Id="3fee4040-5f6a-4b18-8703-2e53573c80dc" />
   <Project Path="../Homework03Currency/Homework03Currency.csproj" Id="85eeb115-95ed-4770-ad9e-29205a4aaeff" />
@@ -16,7 +15,9 @@
   <Project Path="../Lesson39ArrayStandartSolutions/Lesson39ArrayStandartSolutions.csproj" Id="17db895d-c93e-4393-b70f-5d42a4eaf107" />
   <Project Path="../Lesson40IndexAndDiapasons/Lesson40IndexAndDiapasons.csproj" Id="ba4620a6-7576-4b40-8724-ec720e47461b" />
   <Project Path="../MyProject/MyProject.csproj" Id="8d7f0e58-9841-40ed-b720-b05af836c6b3" />
-  <Project Path="../Netolofy02Lesson/Netology02Lesson.csproj" Id="6553b6f4-c88d-4d03-89b6-713b2c8b1fa2" />
+  <Project Path="../Netology01HomeWork/Netology01HomeWork.csproj" />
   <Project Path="../Netology01Lesson/Netology01Lesson.csproj" Id="4fc3cb95-cf25-4a22-bc18-64e21c6e268a" />
+  <Project Path="../Netology02HomeWorkArrays/Netology02HomeWorkArrays.csproj" Id="d616239f-ac7e-4ccf-b8d7-bd4add4cc790" />
+  <Project Path="../Netology02Lesson/Netology02Lesson.csproj" />
   <Project Path="Lessons.csproj" />
 </Solution>
