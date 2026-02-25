@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../hometask20260221/Netology01HomeWork.csproj" />
   <Project Path="../Homework/Homework01Average.csproj" Id="ee09b72c-4693-438a-a70d-c7a22058c94b" />
   <Project Path="../Homework02Sum/Homework02Sum.csproj" Id="3fee4040-5f6a-4b18-8703-2e53573c80dc" />
   <Project Path="../Homework03Currency/Homework03Currency.csproj" Id="85eeb115-95ed-4770-ad9e-29205a4aaeff" />
