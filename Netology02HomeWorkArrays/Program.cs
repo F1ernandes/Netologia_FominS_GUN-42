@@ -14,7 +14,7 @@ namespace Lessons
             /*Fibonacchi Numbers - Task 01*/
             Console.WriteLine("Fibonacci numbers");
             int[] fibonacchiNumbers = new int[15];
-
+            
             for (int i = 0; i < fibonacchiNumbers.Length; i++)
             {
                 switch (i)
