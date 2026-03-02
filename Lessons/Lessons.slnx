@@ -20,5 +20,6 @@
   <Project Path="../Netology02HomeWorkArrays/Netology02HomeWorkArrays.csproj" Id="d616239f-ac7e-4ccf-b8d7-bd4add4cc790" />
   <Project Path="../Netology02Lesson/Netology02Lesson.csproj" />
   <Project Path="../Netology03LessonLoops/Netology03LessonLoops.csproj" Id="c1179775-d164-4e82-812c-8135277ffb3a" />
+  <Project Path="../Netology04LessonClasses/Netology04LessonClasses.csproj" Id="746e5594-6109-424f-a74e-c71e1e6fc5ec" />
   <Project Path="Lessons.csproj" />
 </Solution>
