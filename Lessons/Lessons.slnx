@@ -14,6 +14,8 @@
   <Project Path="../Lesson32Array/Lesson32Array.csproj" Id="0f1d5c2a-6462-4126-8032-b2d38f520ea3" />
   <Project Path="../Lesson39ArrayStandartSolutions/Lesson39ArrayStandartSolutions.csproj" Id="17db895d-c93e-4393-b70f-5d42a4eaf107" />
   <Project Path="../Lesson40IndexAndDiapasons/Lesson40IndexAndDiapasons.csproj" Id="ba4620a6-7576-4b40-8724-ec720e47461b" />
+  <Project Path="../Lesson48MetodsAndFunctions/Lesson48MetodsAndFunctions.csproj" Id="e4d0fd5f-bf64-4081-bc7a-8f436d39e2f8" />
+  <Project Path="../Lesson49FindIndexInArray/Lesson49FindIndexInArray.csproj" Id="71998827-bf94-4d71-912f-309e99e471cd" />
   <Project Path="../MyProject/MyProject.csproj" Id="8d7f0e58-9841-40ed-b720-b05af836c6b3" />
   <Project Path="../Netology01HomeWork/Netology01HomeWork.csproj" />
   <Project Path="../Netology01Lesson/Netology01Lesson.csproj" Id="4fc3cb95-cf25-4a22-bc18-64e21c6e268a" />
@@ -21,5 +23,6 @@
   <Project Path="../Netology02Lesson/Netology02Lesson.csproj" />
   <Project Path="../Netology03LessonLoops/Netology03LessonLoops.csproj" Id="c1179775-d164-4e82-812c-8135277ffb3a" />
   <Project Path="../Netology04LessonClasses/Netology04LessonClasses.csproj" Id="746e5594-6109-424f-a74e-c71e1e6fc5ec" />
+  <Project Path="../Netology05Memmory/Netology05Memmory.csproj" Id="3d2a030a-af2d-4a23-850c-0f5e70193ecd" />
   <Project Path="Lessons.csproj" />
 </Solution>
