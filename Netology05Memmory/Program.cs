@@ -155,7 +155,8 @@ namespace Classes
                 var room = _rooms[i];
                 Console.WriteLine($"Room {i + 1}:");
                 Console.WriteLine($"Unit of room: {room.Unit.Name}, Health: {room.Unit.Health}, Damage: {room.Unit.Damage.Min}-{room.Unit.Damage.Max}");
-                Console.WriteLine($"Weapon of room: {room.Weapon.Name}, Damage: {room.Weapon.Damage.Min}-{room.Weapon.Damage.Max}");
+                //Console.WriteLine($"Weapon of room: {room.Weapon.Name}, Damage: {room.Weapon.Damage.Min}-{room.Weapon.Damage.Max}");
+                Console.WriteLine($"Weapon of room: {room.Weapon.Name}, Damage: {room.Weapon.Damage.Get()}");
                 Console.WriteLine("---");
             }
         }
