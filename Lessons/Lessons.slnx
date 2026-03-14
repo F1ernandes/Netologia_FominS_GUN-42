@@ -23,6 +23,9 @@
   <Project Path="../Netology02Lesson/Netology02Lesson.csproj" />
   <Project Path="../Netology03LessonLoops/Netology03LessonLoops.csproj" Id="c1179775-d164-4e82-812c-8135277ffb3a" />
   <Project Path="../Netology04LessonClasses/Netology04LessonClasses.csproj" Id="746e5594-6109-424f-a74e-c71e1e6fc5ec" />
+  <Project Path="../Netology05Lesson/Netology05Lesson.csproj" Id="780c96c5-5a5a-433d-b733-6b8cb1d02a67" />
   <Project Path="../Netology05Memmory/Netology05Memmory.csproj" Id="3d2a030a-af2d-4a23-850c-0f5e70193ecd" />
+  <Project Path="../Netology06HomeWorkCollestions/Netology06HomeWorkCollestions.csproj" Id="e82c9624-ee7e-4192-a5f0-1961c311a948" />
+  <Project Path="../Netology06LessonCollection/Netology06LessonCollection.csproj" Id="c888e3e1-c1b8-4ac8-8d77-a8596befc178" />
   <Project Path="Lessons.csproj" />
 </Solution>
