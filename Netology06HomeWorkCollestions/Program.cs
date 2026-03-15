@@ -25,6 +25,7 @@ namespace Netology06HomeWorkCollestions
                         StudentsGrade.TaskLoop();
                         break;
                     case 3:
+                        TrackList.TaskLoop();
                         break;
                     default:
                         Console.WriteLine("You chosen task number " + taskNum +" but we haven't this task"); break;

@@ -33,14 +33,11 @@ namespace Netology06HomeWorkCollestions
                     case ConsoleKey.F:
                         Console.WriteLine("Enter name of the student");
                         string nameToFind = Console.ReadLine();
-                        if (!students.educationalJournal.ContainsKey(nameToFind))
-                        {
-                            Console.WriteLine("Wrong name. Student not found");
-                        }
-                        else if (students.educationalJournal.TryGetValue(nameToFind, out int getScore))
+                        if (students.educationalJournal.TryGetValue(nameToFind, out int getScore))
                         {
                             Console.WriteLine("Student " + nameToFind +" has " + getScore + " for exam");
                         }
+                        else { Console.WriteLine("Wrong name. Student not found"); }
                     break;
                     case ConsoleKey.Escape:
                         breakLoop = true;
@@ -58,8 +55,8 @@ namespace Netology06HomeWorkCollestions
                             if(byte.TryParse(Console.ReadLine(), out score))
                             {
                                 if (score >= 2 && score <= 5) 
-                                { 
-                                    students.educationalJournal.Add(name, score); 
+                                {
+                                    if (!students.educationalJournal.TryAdd(name, score)) {Console.WriteLine("This student already has score"); }
                                     isEnableScore = true; 
                                 }
                                 else { Console.WriteLine("The score must be in range 2..5"); }
