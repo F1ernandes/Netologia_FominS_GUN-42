@@ -124,6 +124,8 @@ namespace Netology07HomeWorkStringsAndChars
             string[] strArray = new string[] {"One", "Two", "Three", "Four", "Five"};
             sb = getSentence(strArray);
             Console.WriteLine(sb.ToString());
+
+            Console.Write("\n\n\nTask6\n");
             string myExpresion = "The game is not worth the candle. Burn the candle at both ends. Can't hold a candle to. Better to light a candle than curse the darkness. Candle in the wind";
             string resultTaskSixth = ReplaceWords(myExpresion, "candle", "lamp");
             Console.WriteLine(resultTaskSixth);
