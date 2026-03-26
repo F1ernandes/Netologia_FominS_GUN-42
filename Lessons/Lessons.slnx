@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../GamePrototype/GamePrototype.csproj" />
   <Project Path="../Homework/Homework01Average.csproj" Id="ee09b72c-4693-438a-a70d-c7a22058c94b" />
   <Project Path="../Homework02Sum/Homework02Sum.csproj" Id="3fee4040-5f6a-4b18-8703-2e53573c80dc" />
   <Project Path="../Homework03Currency/Homework03Currency.csproj" Id="85eeb115-95ed-4770-ad9e-29205a4aaeff" />
@@ -28,7 +29,6 @@
   <Project Path="../Netology06HomeWorkCollestions/Netology06HomeWorkCollestions.csproj" Id="e82c9624-ee7e-4192-a5f0-1961c311a948" />
   <Project Path="../Netology06LessonCollection/Netology06LessonCollection.csproj" Id="c888e3e1-c1b8-4ac8-8d77-a8596befc178" />
   <Project Path="../Netology07HomeWorkStringsAndChars/Netology07HomeWorkStringsAndChars.csproj" Id="91caacf0-cbb5-47aa-b894-9b7929bf4e15" />
-  <Project Path="../Netology08HomeWorkRogueLike/GamePrototype.csproj" />
   <Project Path="../Netology09DelegatesAndEvents/Netology09DelegatesAndEvents.csproj" Id="4077754a-3f11-409d-99a3-da3679ef2664" />
   <Project Path="Lessons.csproj" />
 </Solution>
